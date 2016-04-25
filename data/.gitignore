@@ -1,0 +1,6 @@
+# ignore checkpoints
+**/*.ipynb_checkpoints
+
+#Ignore file location
+
+**/.DS_Store
